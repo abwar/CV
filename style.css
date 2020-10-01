@@ -5,18 +5,20 @@
          url('font/shapiro-35feathertext-webfont.ttf') format('truetype'),
          url('font/shapiro-35feathertext-webfont.svg') format('svg');
        }
-@font-face{
-  font-family: 'gilroy'
-  src: url('font/gilroy-extrabold-webfont.eot') format ('eot'),
-       url('font/gilroy-extrabold-webfont.woff') format ('woff'),
-       url('font/gilroy-extrabold-webfont.ttf') format ('truetype'),
-       url('font/gilroy-extrabold-webfont.svg') format ('svg');
-     }
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('font/gilroy-extrabold-webfont.eot') format('eot'),
+                url('font/gilroy-extrabold-webfont.woff') format('woff'),
+                url('font/gilroy-extrabold-webfont.ttf') format('truetype'),
+                url('font/gilroy-extrabold-webfont.svg') format('svg');
+              }
+
 
 h1, h2
 {
   color: FF6768;
   font-family: gilroy, "Arial Black", Impact, sans-serif;
-  font-weight: bold
+  font-weight:
 
 }
