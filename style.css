@@ -9,9 +9,9 @@
 @font-face {
     font-family: 'gilroy';
     src: url('font/gilroy-extrabold-webfont.eot') format('eot'),
-                url('font/gilroy-extrabold-webfont.woff') format('woff'),
-                url('font/gilroy-extrabold-webfont.ttf') format('truetype'),
-                url('font/gilroy-extrabold-webfont.svg') format('svg');
+         url('font/gilroy-extrabold-webfont.woff') format('woff'),
+         url('font/gilroy-extrabold-webfont.ttf') format('truetype'),
+         url('font/gilroy-extrabold-webfont.svg') format('svg');
               }
 
 
