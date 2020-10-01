@@ -13,15 +13,10 @@
        url('font/gilroy-extrabold-webfont.svg') format ('svg');
      }
 
-
-
-
-
-
-
 h1, h2
 {
   color: FF6768;
-  font-family: shapiro, "Arial Black", Impact, sans-serif;
+  font-family: gilroy, "Arial Black", Impact, sans-serif;
+  font-weight: bold
 
 }
