@@ -23,7 +23,13 @@ h1, h2
 
 }
 
-p
+p, ul, ol
 {
+  color: 17223B
   font-family: shapiro
+}
+
+.ville, .date
+{
+  color: 263859
 }
