@@ -26,7 +26,7 @@ h1, h2
 p, ul, ol
 {
   color: 17223B
-  font-family: shapiro
+  font-family: shapiro, Arial, helvetica, sans-serif
 }
 
 .ville, .date
