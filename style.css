@@ -14,7 +14,7 @@
          url('font/gilroy-extrabold-webfont.svg') format('svg');
               }
 
-Titres
+
 h1, h2
 {
   color: FF6768;
@@ -23,20 +23,18 @@ h1, h2
 
 }
 
-Texte normal
 p, ul, ol
 {
   color: 17223B
   font-family: shapiro
 }
 
-Infos ville et date
 .ville, .date
 {
   color: 263859
 }
 
-Lien
+
 a
 {
   color: 263859
