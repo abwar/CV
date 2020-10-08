@@ -12,8 +12,12 @@
          url('font/gilroy-extrabold-webfont.woff') format('woff'),
          url('font/gilroy-extrabold-webfont.ttf') format('truetype'),
          url('font/gilroy-extrabold-webfont.svg') format('svg');
-              }
+            }
 
+body
+{
+  background-color: 6b778d
+}
 
 h1, h2
 {
