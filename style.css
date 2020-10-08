@@ -53,6 +53,7 @@ p, ul, ol
   font-size: small;
   text-align: left;
   background-color: #fdc4b6;
+  box-shadow: 2px 2px 0px black;
 }
 
 strong,
@@ -71,7 +72,9 @@ a
   color: #2d095c;
 }
 
-.photo
+.profil
 {
-
+  border-width: 1px;
+  border-style: dashed;
+  border-color: #dd7777;
 }
