@@ -18,12 +18,12 @@
 
 body
 {
-  background-color: #6b778d;
+  background-color: #fae3d9;
 }
 
 head
 {
-  background-color: : #6b778d;
+  background-color: : #fae3d9;
 }
 
 
@@ -51,7 +51,7 @@ p, ul, ol
   color: #17223B;
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
-  text-align: right;
+  text-align: left;
   background-color: #fdc4b6;
 }
 
@@ -69,4 +69,9 @@ strong,
 a
 {
   color: #263859;
+}
+
+.photo
+{
+  
 }
