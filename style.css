@@ -25,13 +25,15 @@ h1, h2
 
 h1
 {
-  font-size: x-large;
+  font-size: xx-large;
+  text-align: center;
 
 }
 
 h2
 {
   font-size: medium;
+  text-align: left;
 }
 
 p, ul, ol
@@ -39,6 +41,13 @@ p, ul, ol
   color: 17223B;
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
+  text-align: right;
+}
+
+strong,
+{
+  color: 17223b;
+
 }
 
 .ville, .date
