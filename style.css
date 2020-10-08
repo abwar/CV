@@ -54,7 +54,6 @@ p, ul, ol
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
   text-align: left;
-  background-color: #fdc4b6;
 }
 
 strong,
@@ -79,19 +78,23 @@ a
   border-style: dashed;
   border-color: #dd7777;
   box-shadow: 2px 2px 4px black;
+  background-color: #fdc4b6;
 }
 
 .expe
 {
   box-shadow: 2px 2px 4px black;
+  background-color: #fdc4b6;
 }
 
 .compet
 {
   box-shadow: 2px 2px 4px black;
+  background-color: #fdc4b6;
 }
 
 .form
 {
   box-shadow: 2px 2px 4px black;
+  background-color: #fdc4b6;
 }
