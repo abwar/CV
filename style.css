@@ -53,7 +53,6 @@ p, ul, ol
   font-size: small;
   text-align: left;
   background-color: #fdc4b6;
-  box-shadow: 2px 2px 0px black;
 }
 
 strong,
@@ -77,4 +76,20 @@ a
   border-width: 1px;
   border-style: dashed;
   border-color: #dd7777;
+  box-shadow: 2px 2px 4px black;
+}
+
+.expe
+{
+  box-shadow: 2px 2px 4px black;
+}
+
+.compet
+{
+  box-shadow: 2px 2px 4px black;
+}
+
+.form
+{
+  box-shadow: 2px 2px 4px black;
 }
