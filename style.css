@@ -16,9 +16,13 @@
 
 body
 {
-  background-color: 6b778d
+  background-color: 6b778d;
 }
 
+head
+{
+  background-color: : 6b778d;
+}
 h1, h2
 {
   color: FF6768;
@@ -46,6 +50,7 @@ p, ul, ol
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
   text-align: right;
+  background-color: fdc4b6;
 }
 
 strong,
@@ -63,4 +68,5 @@ strong,
 a
 {
   color: 263859;
+
 }
