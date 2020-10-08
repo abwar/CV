@@ -18,18 +18,18 @@
 
 body
 {
-  background-color: #fae3d9;
+  background-color: #eae3e3;
 }
 
 head
 {
-  background-color: : #fae3d9;
+  background-color: : #eae3e3;
 }
 
 
 h1, h2
 {
-  color: #FF6768;
+  color: #dd7777;
   font-family: gilroy, "Arial Black", Impact, sans-serif;
   text-shadow: 1px 1px 2px black;
 }
@@ -48,7 +48,7 @@ h2
 
 p, ul, ol
 {
-  color: #17223B;
+  color: #20366b;
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
   text-align: left;
@@ -57,21 +57,21 @@ p, ul, ol
 
 strong,
 {
-  color: #17223b;
+  color: #2d095c;
 }
 
 .ville, .date
 {
-  color: #263859;
+  color: #2d095c;
 }
 
 
 a
 {
-  color: #263859;
+  color: #2d095c;
 }
 
 .photo
 {
-  
+
 }
