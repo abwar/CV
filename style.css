@@ -1,4 +1,5 @@
-@font-face {
+@font-face
+{
     font-family: 'shapiro';
     src: url('font/shapiro-35feathertext-webfont.eot') format('eot'),
          url('font/shapiro-35feathertext-webfont.woff') format('woff'),
@@ -6,7 +7,8 @@
          url('font/shapiro-35feathertext-webfont.svg') format('svg');
        }
 
-@font-face {
+@font-face
+{
     font-family: 'gilroy';
     src: url('font/gilroy-extrabold-webfont.eot') format('eot'),
          url('font/gilroy-extrabold-webfont.woff') format('woff'),
@@ -30,14 +32,12 @@ h1, h2
   color: #FF6768;
   font-family: gilroy, "Arial Black", Impact, sans-serif;
   text-shadow: 1px 1px 2px black;
-
 }
 
 h1
 {
   font-size: xx-large;
   text-align: center;
-
 }
 
 h2
@@ -58,7 +58,6 @@ p, ul, ol
 strong,
 {
   color: #17223b;
-
 }
 
 .ville, .date
@@ -70,5 +69,4 @@ strong,
 a
 {
   color: #263859;
-
 }
