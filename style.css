@@ -16,16 +16,18 @@
 
 body
 {
-  background-color: 6b778d;
+  background-color: #6b778d;
 }
 
 head
 {
-  background-color: : 6b778d;
+  background-color: : #6b778d;
 }
+
+
 h1, h2
 {
-  color: FF6768;
+  color: #FF6768;
   font-family: gilroy, "Arial Black", Impact, sans-serif;
   text-shadow: 1px 1px 2px black;
 
@@ -46,7 +48,7 @@ h2
 
 p, ul, ol
 {
-  color: 17223B;
+  color: #17223B;
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
   text-align: right;
@@ -55,18 +57,18 @@ p, ul, ol
 
 strong,
 {
-  color: 17223b;
+  color: #17223b;
 
 }
 
 .ville, .date
 {
-  color: 263859;
+  color: #263859;
 }
 
 
 a
 {
-  color: 263859;
+  color: #263859;
 
 }
