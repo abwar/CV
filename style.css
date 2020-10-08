@@ -36,20 +36,18 @@ h2
 
 p, ul, ol
 {
-  color: 17223B
+  color: 17223B;
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
 }
 
 .ville, .date
 {
-  color: 263859
+  color: 263859;
 }
 
 
 a
 {
-  color: 263859
+  color: 263859;
 }
-
-.photo
