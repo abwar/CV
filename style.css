@@ -23,10 +23,22 @@ h1, h2
 
 }
 
+h1
+{
+  font-size: x-large;
+
+}
+
+h2
+{
+  font-size: medium;
+}
+
 p, ul, ol
 {
   color: 17223B
   font-family: shapiro, Arial, helvetica, sans-serif;
+  font-size: small
 }
 
 .ville, .date
@@ -39,3 +51,5 @@ a
 {
   color: 263859
 }
+
+.photo
