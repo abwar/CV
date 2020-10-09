@@ -31,13 +31,13 @@ h1, h2
 {
   color: #dd7777;
   font-family: gilroy, "Arial Black", Impact, sans-serif;
-  text-shadow: 1px 1px 2px black;
 }
 
 h1
 {
   font-size: xx-large;
   text-align: center;
+  text-shadow: 1px 1px 2px black;
 }
 
 h2
@@ -58,7 +58,8 @@ p, ul, ol
 
 strong,
 {
-  color: #2d095c;
+  color: #313131;
+  text-shadow: 1px 1px 2px black;
 }
 
 .ville, .date
