@@ -76,60 +76,31 @@ a
 
 .profil
 {
-  width: 300px;
-  height:auto;
   border-width: 2px;
   border-style: dashed;
   border-color: #B1D7D8;
   box-shadow: 0px 2px 4px black;
-  background-color: #C7D1AC;
-  margin: 10px;
-  padding: 20px;
 }
 
 .expe
 {
   box-shadow: 0px 2px 4px black;
   background-color: #B1D7D8;
-  width: 1000px;
-  height: auto;
-  position:fixed;
-  top: 200px;
-  left: 400px;
-  margin: 10px;
-  padding: 20px;
 }
 
 .compet
 {
   box-shadow: 0px 2px 4px black;
   background-color: #B1D7D8;
-  width: 450px;
-  height: 200px;
-  position:fixed;
-  top: 410px;
-  left: 400px;
-  margin: 10px;
-  padding: 20px;
 }
 
 .form
 {
   box-shadow: 0px 2px 4px black;
   background-color: #B1D7D8;
-  width: 500px;
-  height: auto;
-  position:fixed;
-  top: 410px;
-  left: 900px;
-  margin: 10px;
-  padding: 20px;
 }
 
 .portraitzozo
 {
-width: auto;
-height: auto;
-border-width: 10px;
 
 }
