@@ -19,6 +19,7 @@
 body
 {
   background-color: #F5ECE8;
+  margin: 20px;
 }
 
 head
@@ -26,6 +27,12 @@ head
   background-color: : #F5ECE8;
 }
 
+img
+{
+  width: 100%;
+  align-items: center;
+
+}
 
 h1, h2
 {
@@ -62,6 +69,12 @@ span
   color: #2D2C2B;
 }
 
+.profil h2
+{
+  text-align: center;
+  font-size: x-large;
+}
+
 .ville, .date
 {
   color: #292827;
@@ -74,33 +87,112 @@ a
   color: #292827;
 }
 
+a:hover
+{
+  color:#6A9792;
+}
+
+a:visited
+{
+  color:#455D8C;
+}
+
 .profil
 {
+  background-color: #C7D1AC;
   border-width: 2px;
   border-style: dashed;
-  border-color: #C7D1AC;
+  border-color: #B1D7D8;
   box-shadow: 0px 2px 4px black;
+  margin: 20px;
+  padding: 20px;
+  padding-top: 0px;
+  word-wrap: break-word;
+  max-width: 25%;
+
 }
 
 .expe
 {
   box-shadow: 0px 2px 4px black;
   background-color: #B1D7D8;
+  margin: 20px;
+  padding: 10px;
+  padding-top: 0px;
+  word-wrap: break-word;
+  width: 100%;
+
 }
 
 .compet
 {
   box-shadow: 0px 2px 4px black;
   background-color: #B1D7D8;
+  margin: 20px;
+  padding: 10px;
+  padding-top: 0px;
+  word-wrap: break-word;
+  width: 100%;
 }
 
 .form
 {
   box-shadow: 0px 2px 4px black;
   background-color: #B1D7D8;
+  margin: 20px;
+  padding: 10px;
+  padding-top: 0px;
+  word-wrap: break-word;
+  width: 100%;
 }
 
-.portraitzozo
+
+#vertical
 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items:flex-start;
+  width: 60%;
+
+}
+
+#horizontal
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items:flex-start;
+}
+
+
+
+.profil:nth-child(1)
+{
+  align-self: flex-start;
+  flex: 1
+  width: 25%
+}
+
+.expe:nth-child(2)
+{
+  align-self: flex-end;
+  flex: 4
+
+}
+
+.compet:nth-child(3)
+{
+
+  align-self: flex-end;
+  flex: 4
+
+
+}
+
+.form:nth-child(4)
+{
+  align-self: flex-end;
+  flex: 4
 
 }
