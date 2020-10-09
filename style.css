@@ -46,6 +46,7 @@ h2
   text-align: left;
   text-decoration: underline;
   text-decoration-color: #dd7777;
+  text-shadow: 1px 1px 0px black;
 }
 
 p, ul, ol
