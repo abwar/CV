@@ -18,18 +18,18 @@
 
 body
 {
-  background-color: #eae3e3;
+  background-color: #F5ECE8;
 }
 
 head
 {
-  background-color: : #eae3e3;
+  background-color: : #F5ECE8;
 }
 
 
 h1, h2
 {
-  color: #dd7777;
+  color: #6A9792;
   font-family: gilroy, "Arial Black", Impact, sans-serif;
 }
 
@@ -45,13 +45,13 @@ h2
   font-size: medium;
   text-align: left;
   text-decoration: underline;
-  text-decoration-color: #dd7777;
+  text-decoration-color: #6A9792;
   text-shadow: 1px 1px 0px black;
 }
 
 p, ul, ol
 {
-  color: #20366b;
+  color: #52514F;
   font-family: shapiro, Arial, helvetica, sans-serif;
   font-size: small;
   text-align: left;
@@ -59,44 +59,44 @@ p, ul, ol
 
 strong,
 {
-  color: #313131;
+  color: #292827;
   text-shadow: 1px 1px 2px black;
 }
 
 .ville, .date
 {
-  color: #2d095c;
+  color: #292827;
 }
 
 
 a
 {
-  color: #2d095c;
+  color: #292827;
 }
 
 .profil
 {
-  border-width: 1px;
+  border-width: 2px;
   border-style: dashed;
-  border-color: #dd7777;
+  border-color: #B1D7D8;
   box-shadow: 0px 2px 4px black;
-  background-color: #f6ded4;
+  background-color: #C7D1AC;
 }
 
 .expe
 {
   box-shadow: 0px 2px 4px black;
-  background-color: #fdc4b6;
+  background-color: #B1D7D8;
 }
 
 .compet
 {
   box-shadow: 0px 2px 4px black;
-  background-color: #fdc4b6;
+  background-color: #B1D7D8;
 }
 
 .form
 {
   box-shadow: 0px 2px 4px black;
-  background-color: #fdc4b6;
+  background-color: #B1D7D8;
 }
